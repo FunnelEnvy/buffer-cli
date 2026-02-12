@@ -211,7 +211,6 @@ export function registerPostsCommands(program: Command): void {
 
         if (opts.verbose) {
           console.error(`POST ${url.replace(token, '***')}`);
-          console.error(`Body: ${JSON.stringify(formData)}`);
         }
 
         const result = await request<CreateUpdateResponse>(url, {
