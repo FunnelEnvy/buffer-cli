@@ -1,7 +1,7 @@
 # buffer-cli
 
-[![npm version](https://img.shields.io/npm/v/@marketing-clis/buffer-cli)](https://www.npmjs.com/package/@marketing-clis/buffer-cli)
-[![CI](https://github.com/marketing-clis/buffer-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/marketing-clis/buffer-cli/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@funnelenvy/buffer-cli)](https://www.npmjs.com/package/@funnelenvy/buffer-cli)
+[![CI](https://github.com/FunnelEnvy/buffer-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/FunnelEnvy/buffer-cli/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Command-line interface for the Buffer social media management API. Manage profiles, schedule posts, and view analytics from your terminal.
@@ -9,7 +9,7 @@ Command-line interface for the Buffer social media management API. Manage profil
 ## Install
 
 ```bash
-npm install -g @marketing-clis/buffer-cli
+npm install -g @funnelenvy/buffer-cli
 ```
 
 ## Quick Start
@@ -138,7 +138,7 @@ Config file location: `~/.config/buffer-cli/config.json`
 ## Development
 
 ```bash
-git clone https://github.com/marketing-clis/buffer-cli.git
+git clone https://github.com/FunnelEnvy/buffer-cli.git
 cd buffer-cli
 pnpm install
 pnpm run build
@@ -149,7 +149,7 @@ pnpm run lint
 
 ## Part of Marketing CLIs
 
-This tool is part of [Marketing CLIs](https://github.com/marketing-clis/marketing-clis) — open source CLIs for marketing tools that lack them. Consistent auth, output formats, and error handling across all tools.
+This tool is part of [Marketing CLIs](https://github.com/FunnelEnvy/marketing-clis) — open source CLIs for marketing tools that lack them. Consistent auth, output formats, and error handling across all tools.
 
 ## License
 

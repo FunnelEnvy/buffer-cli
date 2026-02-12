@@ -1,5 +1,5 @@
 {
-  "name": "@marketing-clis/buffer-cli",
+  "name": "@funnelenvy/buffer-cli",
   "version": "0.1.0",
   "description": "Command-line interface for the Buffer social media management API",
   "type": "module",
@@ -28,7 +28,7 @@
     "social-media",
     "scheduling"
   ],
-  "author": "Marketing CLIs Contributors",
+  "author": "FunnelEnvy",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
